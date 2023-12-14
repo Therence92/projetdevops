@@ -15,3 +15,7 @@ jobs:
       with:
         python-version: '3.8'
 
+    - name: pip install pandas
+    - name: pip install numpy
+    - name: nam2
+    - name:  sudo apt install postgresql
